@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+#changeme{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-left: 40%;  
+
+}
+button{
+    text-align: center;
+    
+    margin-right: 40%;
+    margin-left: 40%; 
+}
